@@ -1,0 +1,695 @@
+[
+  {
+    "kanji": "圧迫",
+    "kana": "あっぱく",
+    "meaning": "压迫",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "扱い",
+    "kana": "あつかい",
+    "meaning": "对待；处理",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "不安",
+    "kana": "ふあん",
+    "meaning": "不安",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "遺産",
+    "kana": "いさん",
+    "meaning": "遗产",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "意識",
+    "kana": "いしき",
+    "meaning": "意识",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "異常",
+    "kana": "いじょう",
+    "meaning": "异常",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "印刷",
+    "kana": "いんさつ",
+    "meaning": "印刷",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "宇宙",
+    "kana": "うちゅう",
+    "meaning": "宇宙",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "営業",
+    "kana": "えいぎょう",
+    "meaning": "营业",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "演説",
+    "kana": "えんぜつ",
+    "meaning": "演说",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "応援",
+    "kana": "おうえん",
+    "meaning": "加油；支援",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "価値",
+    "kana": "かち",
+    "meaning": "价值",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "完璧",
+    "kana": "かんぺき",
+    "meaning": "完美",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "規模",
+    "kana": "きぼ",
+    "meaning": "规模",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "犠牲",
+    "kana": "ぎせい",
+    "meaning": "牺牲",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "競技",
+    "kana": "きょうぎ",
+    "meaning": "竞技",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "共通",
+    "kana": "きょうつう",
+    "meaning": "共同",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "協力",
+    "kana": "きょうりょく",
+    "meaning": "合作",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "具体",
+    "kana": "ぐたい",
+    "meaning": "具体",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "軍隊",
+    "kana": "ぐんたい",
+    "meaning": "军队",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "警備",
+    "kana": "けいび",
+    "meaning": "警备",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "建築",
+    "kana": "けんちく",
+    "meaning": "建筑",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "工業",
+    "kana": "こうぎょう",
+    "meaning": "工业",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "国際",
+    "kana": "こくさい",
+    "meaning": "国际",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "財産",
+    "kana": "ざいさん",
+    "meaning": "财产",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "削減",
+    "kana": "さくげん",
+    "meaning": "削减",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "産業",
+    "kana": "さんぎょう",
+    "meaning": "产业",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "資源",
+    "kana": "しげん",
+    "meaning": "资源",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "実験",
+    "kana": "じっけん",
+    "meaning": "实验",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "実現",
+    "kana": "じつげん",
+    "meaning": "实现",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "実績",
+    "kana": "じっせき",
+    "meaning": "实际成绩",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "謝罪",
+    "kana": "しゃざい",
+    "meaning": "道歉",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "収穫",
+    "kana": "しゅうかく",
+    "meaning": "收获",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "重要",
+    "kana": "じゅうよう",
+    "meaning": "重要",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "瞬間",
+    "kana": "しゅんかん",
+    "meaning": "瞬间",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "紹介",
+    "kana": "しょうかい",
+    "meaning": "介绍",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "商品",
+    "kana": "しょうひん",
+    "meaning": "商品",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "職業",
+    "kana": "しょくぎょう",
+    "meaning": "职业",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "処理",
+    "kana": "しょり",
+    "meaning": "处理",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "新聞",
+    "kana": "しんぶん",
+    "meaning": "报纸",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "正確",
+    "kana": "せいかく",
+    "meaning": "正确",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "製造",
+    "kana": "せいぞう",
+    "meaning": "制造",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "責任",
+    "kana": "せきにん",
+    "meaning": "责任",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "設備",
+    "kana": "せつび",
+    "meaning": "设备",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "絶滅",
+    "kana": "ぜつめつ",
+    "meaning": "灭绝",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "組織",
+    "kana": "そしき",
+    "meaning": "组织",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "対策",
+    "kana": "たいさく",
+    "meaning": "对策",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "立場",
+    "kana": "たちば",
+    "meaning": "立场",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "蓄積",
+    "kana": "ちくせき",
+    "meaning": "积累",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "忠実",
+    "kana": "ちゅうじつ",
+    "meaning": "忠实",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "貯蓄",
+    "kana": "ちょちく",
+    "meaning": "储蓄",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "通信",
+    "kana": "つうしん",
+    "meaning": "通信",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "妻",
+    "kana": "つま",
+    "meaning": "妻子",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "夫",
+    "kana": "おっと",
+    "meaning": "丈夫",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "伝統",
+    "kana": "でんとう",
+    "meaning": "传统",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "統制",
+    "kana": "とうせい",
+    "meaning": "控制",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "特徴",
+    "kana": "とくちょう",
+    "meaning": "特征",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "独立",
+    "kana": "どくりつ",
+    "meaning": "独立",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "悩む",
+    "kana": "なやむ",
+    "meaning": "烦恼",
+    "jlpt": "N2",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "逃げる",
+    "kana": "にげる",
+    "meaning": "逃跑",
+    "jlpt": "N2",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "握る",
+    "kana": "にぎる",
+    "meaning": "握",
+    "jlpt": "N2",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "抜く",
+    "kana": "ぬく",
+    "meaning": "抽出；去除",
+    "jlpt": "N2",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "盗む",
+    "kana": "ぬすむ",
+    "meaning": "偷盗",
+    "jlpt": "N2",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "狙う",
+    "kana": "ねらう",
+    "meaning": "瞄准；以...为目标",
+    "jlpt": "N2",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "乗り換える",
+    "kana": "のりかえる",
+    "meaning": "换乘",
+    "jlpt": "N2",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "廃止",
+    "kana": "はいし",
+    "meaning": "废止",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "配置",
+    "kana": "はいち",
+    "meaning": "配置",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "破壊",
+    "kana": "はかい",
+    "meaning": "破坏",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "罰",
+    "kana": "ばつ",
+    "meaning": "惩罚",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "批判",
+    "kana": "ひはん",
+    "meaning": "批判",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "評判",
+    "kana": "ひょうばん",
+    "meaning": "评价；名声",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "膨大",
+    "kana": "ぼうだい",
+    "meaning": "庞大",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "防止",
+    "kana": "ぼうし",
+    "meaning": "防止",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "埋める",
+    "kana": "うめる",
+    "meaning": "埋；填补",
+    "jlpt": "N2",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "免許",
+    "kana": "めんきょ",
+    "meaning": "许可证",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "整備",
+    "kana": "せいび",
+    "meaning": "整备；维护",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "厳しい",
+    "kana": "きびしい",
+    "meaning": "严厉的；严峻的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "惜しい",
+    "kana": "おしい",
+    "meaning": "可惜的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "怪しい",
+    "kana": "あやしい",
+    "meaning": "可疑的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "ややこしい",
+    "kana": "ややこしい",
+    "meaning": "复杂的；麻烦的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "素晴らしい",
+    "kana": "すばらしい",
+    "meaning": "出色的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "尊い",
+    "kana": "とうとい",
+    "meaning": "珍贵的；崇高的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "紛らわしい",
+    "kana": "まぎらわしい",
+    "meaning": "容易混淆的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "激しい",
+    "kana": "はげしい",
+    "meaning": "激烈的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "貧しい",
+    "kana": "まずしい",
+    "meaning": "贫穷的",
+    "jlpt": "N2",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "豊かな",
+    "kana": "ゆたかな",
+    "meaning": "丰富的",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "頻繁",
+    "kana": "ひんぱん",
+    "meaning": "频繁",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "活発",
+    "kana": "かっぱつ",
+    "meaning": "活泼；活跃",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "穏やか",
+    "kana": "おだやか",
+    "meaning": "平稳；温和",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "華やか",
+    "kana": "はなやか",
+    "meaning": "华丽",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "鮮やか",
+    "kana": "あざやか",
+    "meaning": "鲜明；出色",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "柔軟",
+    "kana": "じゅうなん",
+    "meaning": "柔软；灵活",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "曖昧",
+    "kana": "あいまい",
+    "meaning": "暧昧；模糊",
+    "jlpt": "N2",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "潜在",
+    "kana": "せんざい",
+    "meaning": "潜在",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "補償",
+    "kana": "ほしょう",
+    "meaning": "补偿",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "本質",
+    "kana": "ほんしつ",
+    "meaning": "本质",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "収入",
+    "kana": "しゅうにゅう",
+    "meaning": "收入",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "支出",
+    "kana": "ししゅつ",
+    "meaning": "支出",
+    "jlpt": "N2",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "経営",
+    "kana": "けいえい",
+    "meaning": "经营",
+    "jlpt": "N2",
+    "pos": "名詞/動詞"
+  }
+]

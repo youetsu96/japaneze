@@ -1,0 +1,695 @@
+[
+  {
+    "kanji": "挨拶",
+    "kana": "あいさつ",
+    "meaning": "问候",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "味方",
+    "kana": "みかた",
+    "meaning": "同伴；我方",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "表",
+    "kana": "おもて",
+    "meaning": "表面；正面",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "裏",
+    "kana": "うら",
+    "meaning": "背面；内情",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "街",
+    "kana": "まち",
+    "meaning": "街道；城镇",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "雰囲気",
+    "kana": "ふんいき",
+    "meaning": "气氛",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "影響",
+    "kana": "えいきょう",
+    "meaning": "影响",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "価格",
+    "kana": "かかく",
+    "meaning": "价格",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "機会",
+    "kana": "きかい",
+    "meaning": "机会",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "規則",
+    "kana": "きそく",
+    "meaning": "规则",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "境界",
+    "kana": "きょうかい",
+    "meaning": "边界",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "原因",
+    "kana": "げんいん",
+    "meaning": "原因",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "結果",
+    "kana": "けっか",
+    "meaning": "结果",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "事故",
+    "kana": "じこ",
+    "meaning": "事故",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "事実",
+    "kana": "じじつ",
+    "meaning": "事实",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "時代",
+    "kana": "じだい",
+    "meaning": "时代",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "meaning": "社会",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "習慣",
+    "kana": "しゅうかん",
+    "meaning": "习惯",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "条件",
+    "kana": "じょうけん",
+    "meaning": "条件",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "状態",
+    "kana": "じょうたい",
+    "meaning": "状态",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "情報",
+    "kana": "じょうほう",
+    "meaning": "信息",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "成長",
+    "kana": "せいちょう",
+    "meaning": "成长",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "政府",
+    "kana": "せいふ",
+    "meaning": "政府",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "性格",
+    "kana": "せいかく",
+    "meaning": "性格",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "絶対",
+    "kana": "ぜったい",
+    "meaning": "绝对",
+    "jlpt": "N3",
+    "pos": "副詞"
+  },
+  {
+    "kanji": "想像",
+    "kana": "そうぞう",
+    "meaning": "想象",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "貿易",
+    "kana": "ぼうえき",
+    "meaning": "贸易",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "農業",
+    "kana": "のうぎょう",
+    "meaning": "农业",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "変化",
+    "kana": "へんか",
+    "meaning": "变化",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "豊か",
+    "kana": "ゆたか",
+    "meaning": "丰富；富裕",
+    "jlpt": "N3",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "申し込む",
+    "kana": "もうしこむ",
+    "meaning": "申请；报名",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "向かう",
+    "kana": "むかう",
+    "meaning": "朝向；前往",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "認める",
+    "kana": "みとめる",
+    "meaning": "认可；承认",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "招く",
+    "kana": "まねく",
+    "meaning": "邀请；招致",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "増える",
+    "kana": "ふえる",
+    "meaning": "增加",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "減る",
+    "kana": "へる",
+    "meaning": "减少",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "払う",
+    "kana": "はらう",
+    "meaning": "支付",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "比べる",
+    "kana": "くらべる",
+    "meaning": "比较",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "詰める",
+    "kana": "つめる",
+    "meaning": "塞入；填满",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "伝える",
+    "kana": "つたえる",
+    "meaning": "传达；告诉",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "捕まえる",
+    "kana": "つかまえる",
+    "meaning": "抓住",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "通う",
+    "kana": "かよう",
+    "meaning": "往返（上学/上班）",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "頼む",
+    "kana": "たのむ",
+    "meaning": "请求；拜托",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "助ける",
+    "kana": "たすける",
+    "meaning": "帮助",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "尋ねる",
+    "kana": "たずねる",
+    "meaning": "询问；拜访",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "捨てる",
+    "kana": "すてる",
+    "meaning": "扔掉",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "過ごす",
+    "kana": "すごす",
+    "meaning": "度过",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "謝る",
+    "kana": "あやまる",
+    "meaning": "道歉",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "気付く",
+    "kana": "きづく",
+    "meaning": "注意到",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "暮らす",
+    "kana": "くらす",
+    "meaning": "生活",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "成功",
+    "kana": "せいこう",
+    "meaning": "成功",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "失敗",
+    "kana": "しっぱい",
+    "meaning": "失败",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "心配",
+    "kana": "しんぱい",
+    "meaning": "担心",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "感動",
+    "kana": "かんどう",
+    "meaning": "感动",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "緊張",
+    "kana": "きんちょう",
+    "meaning": "紧张",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "感謝",
+    "kana": "かんしゃ",
+    "meaning": "感谢",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "努力",
+    "kana": "どりょく",
+    "meaning": "努力",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "自然",
+    "kana": "しぜん",
+    "meaning": "自然",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "性格",
+    "kana": "せいかく",
+    "meaning": "性格",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "能力",
+    "kana": "のうりょく",
+    "meaning": "能力",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "判断",
+    "kana": "はんだん",
+    "meaning": "判断",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "評価",
+    "kana": "ひょうか",
+    "meaning": "评价",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "満足",
+    "kana": "まんぞく",
+    "meaning": "满足",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "勇気",
+    "kana": "ゆうき",
+    "meaning": "勇气",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "予定",
+    "kana": "よてい",
+    "meaning": "预定；计划",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "理解",
+    "kana": "りかい",
+    "meaning": "理解",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "連絡",
+    "kana": "れんらく",
+    "meaning": "联系",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "沸かす",
+    "kana": "わかす",
+    "meaning": "烧开；使沸腾",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "乾く",
+    "kana": "かわく",
+    "meaning": "干；干燥",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "驚く",
+    "kana": "おどろく",
+    "meaning": "惊讶",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "怒鳴る",
+    "kana": "どなる",
+    "meaning": "大声喊叫",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "触る",
+    "kana": "さわる",
+    "meaning": "触摸",
+    "jlpt": "N3",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "離れる",
+    "kana": "はなれる",
+    "meaning": "离开；分离",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "冷える",
+    "kana": "ひえる",
+    "meaning": "变冷",
+    "jlpt": "N3",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "乾燥",
+    "kana": "かんそう",
+    "meaning": "干燥",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "我慢",
+    "kana": "がまん",
+    "meaning": "忍耐",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "競争",
+    "kana": "きょうそう",
+    "meaning": "竞争",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "工夫",
+    "kana": "くふう",
+    "meaning": "想办法",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "成功",
+    "kana": "せいこう",
+    "meaning": "成功",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "生産",
+    "kana": "せいさん",
+    "meaning": "生产",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "政治",
+    "kana": "せいじ",
+    "meaning": "政治",
+    "jlpt": "N3",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "選挙",
+    "kana": "せんきょ",
+    "meaning": "选举",
+    "jlpt": "N3",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "相当",
+    "kana": "そうとう",
+    "meaning": "相当",
+    "jlpt": "N3",
+    "pos": "副詞"
+  },
+  {
+    "kanji": "独特",
+    "kana": "どくとく",
+    "meaning": "独特",
+    "jlpt": "N3",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "複雑",
+    "kana": "ふくざつ",
+    "meaning": "复杂",
+    "jlpt": "N3",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "率直",
+    "kana": "そっちょく",
+    "meaning": "坦率",
+    "jlpt": "N3",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "真面目",
+    "kana": "まじめ",
+    "meaning": "认真",
+    "jlpt": "N3",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "柔らかい",
+    "kana": "やわらかい",
+    "meaning": "柔软的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "硬い",
+    "kana": "かたい",
+    "meaning": "硬的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "深い",
+    "kana": "ふかい",
+    "meaning": "深的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "浅い",
+    "kana": "あさい",
+    "meaning": "浅的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "太い",
+    "kana": "ふとい",
+    "meaning": "粗的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "細い",
+    "kana": "ほそい",
+    "meaning": "细的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "丸い",
+    "kana": "まるい",
+    "meaning": "圆的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "四角い",
+    "kana": "しかくい",
+    "meaning": "方的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "汚い",
+    "kana": "きたない",
+    "meaning": "肮脏的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "恥ずかしい",
+    "kana": "はずかしい",
+    "meaning": "害羞的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "羨ましい",
+    "kana": "うらやましい",
+    "meaning": "羡慕的",
+    "jlpt": "N3",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "久しぶり",
+    "kana": "ひさしぶり",
+    "meaning": "好久不见",
+    "jlpt": "N3",
+    "pos": "名詞"
+  }
+]

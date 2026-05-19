@@ -1,0 +1,702 @@
+[
+  {
+    "kanji": "趣味",
+    "kana": "しゅみ",
+    "meaning": "兴趣",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "約束",
+    "kana": "やくそく",
+    "meaning": "约定",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "住所",
+    "kana": "じゅうしょ",
+    "meaning": "住址",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "貯金",
+    "kana": "ちょきん",
+    "meaning": "存款",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "経験",
+    "kana": "けいけん",
+    "meaning": "经验",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "交通",
+    "kana": "こうつう",
+    "meaning": "交通",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "観光",
+    "kana": "かんこう",
+    "meaning": "观光",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "入学",
+    "kana": "にゅうがく",
+    "meaning": "入学",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "卒業",
+    "kana": "そつぎょう",
+    "meaning": "毕业",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "区別",
+    "kana": "くべつ",
+    "meaning": "区别",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "都合",
+    "kana": "つごう",
+    "meaning": "方便；情况",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "無駄",
+    "kana": "むだ",
+    "meaning": "浪费；无用",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "留守",
+    "kana": "るす",
+    "meaning": "不在家",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "用事",
+    "kana": "ようじ",
+    "meaning": "事情；要事",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "世話",
+    "kana": "せわ",
+    "meaning": "照顾",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "自由",
+    "kana": "じゆう",
+    "meaning": "自由",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "動物",
+    "kana": "どうぶつ",
+    "meaning": "动物",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "植物",
+    "kana": "しょくぶつ",
+    "meaning": "植物",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "科学",
+    "kana": "かがく",
+    "meaning": "科学",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "歴史",
+    "kana": "れきし",
+    "meaning": "历史",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "世界",
+    "kana": "せかい",
+    "meaning": "世界",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "天気予報",
+    "kana": "てんきよほう",
+    "meaning": "天气预报",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "田舎",
+    "kana": "いなか",
+    "meaning": "乡下",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "都会",
+    "kana": "とかい",
+    "meaning": "都市",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "出口",
+    "kana": "でぐち",
+    "meaning": "出口",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "入口",
+    "kana": "いりぐち",
+    "meaning": "入口",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "窓",
+    "kana": "まど",
+    "meaning": "窗户",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "廊下",
+    "kana": "ろうか",
+    "meaning": "走廊",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "階段",
+    "kana": "かいだん",
+    "meaning": "楼梯",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "庭",
+    "kana": "にわ",
+    "meaning": "庭院",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "交差点",
+    "kana": "こうさてん",
+    "meaning": "十字路口",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "信号",
+    "kana": "しんごう",
+    "meaning": "信号灯",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "駐車場",
+    "kana": "ちゅうしゃじょう",
+    "meaning": "停车场",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "荷物",
+    "kana": "にもつ",
+    "meaning": "行李",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "忘れ物",
+    "kana": "わすれもの",
+    "meaning": "遗忘的物品",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "お土産",
+    "kana": "おみやげ",
+    "meaning": "特产；伴手礼",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "誕生日",
+    "kana": "たんじょうび",
+    "meaning": "生日",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "贈り物",
+    "kana": "おくりもの",
+    "meaning": "礼物",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "結婚",
+    "kana": "けっこん",
+    "meaning": "结婚",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "招待",
+    "kana": "しょうたい",
+    "meaning": "邀请",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "相談",
+    "kana": "そうだん",
+    "meaning": "商量",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "掃除",
+    "kana": "そうじ",
+    "meaning": "扫除",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "洗濯",
+    "kana": "せんたく",
+    "meaning": "洗衣",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "運動",
+    "kana": "うんどう",
+    "meaning": "运动",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "散歩",
+    "kana": "さんぽ",
+    "meaning": "散步",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "旅行",
+    "kana": "りょこう",
+    "meaning": "旅行",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "出張",
+    "kana": "しゅっちょう",
+    "meaning": "出差",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "会議",
+    "kana": "かいぎ",
+    "meaning": "会议",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "出発",
+    "kana": "しゅっぱつ",
+    "meaning": "出发",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "到着",
+    "kana": "とうちゃく",
+    "meaning": "到达",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "泊まる",
+    "kana": "とまる",
+    "meaning": "住宿",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "借りる",
+    "kana": "かりる",
+    "meaning": "借入",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "返す",
+    "kana": "かえす",
+    "meaning": "归还",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "届ける",
+    "kana": "とどける",
+    "meaning": "送到；报告",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "始める",
+    "kana": "はじめる",
+    "meaning": "开始",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "終わる",
+    "kana": "おわる",
+    "meaning": "结束",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "続ける",
+    "kana": "つづける",
+    "meaning": "继续",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "変わる",
+    "kana": "かわる",
+    "meaning": "变化",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "直す",
+    "kana": "なおす",
+    "meaning": "修理；改正",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "間に合う",
+    "kana": "まにあう",
+    "meaning": "来得及",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "足りる",
+    "kana": "たりる",
+    "meaning": "足够",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "足す",
+    "kana": "たす",
+    "meaning": "加；添加",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "勤める",
+    "kana": "つとめる",
+    "meaning": "工作（在某处）",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "休む",
+    "kana": "やすむ",
+    "meaning": "休息；请假",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "病気",
+    "kana": "びょうき",
+    "meaning": "生病",
+    "jlpt": "N4",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "転ぶ",
+    "kana": "ころぶ",
+    "meaning": "摔倒",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "笑う",
+    "kana": "わらう",
+    "meaning": "笑",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "泣く",
+    "kana": "なく",
+    "meaning": "哭",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "怒る",
+    "kana": "おこる",
+    "meaning": "生气",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "心配",
+    "kana": "しんぱい",
+    "meaning": "担心",
+    "jlpt": "N4",
+    "pos": "名詞/動詞"
+  },
+  {
+    "kanji": "迷う",
+    "kana": "まよう",
+    "meaning": "犹豫；迷路",
+    "jlpt": "N4",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "慣れる",
+    "kana": "なれる",
+    "meaning": "习惯",
+    "jlpt": "N4",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "近い",
+    "kana": "ちかい",
+    "meaning": "近的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "遠い",
+    "kana": "とおい",
+    "meaning": "远的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "明るい",
+    "kana": "あかるい",
+    "meaning": "明亮的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "暗い",
+    "kana": "くらい",
+    "meaning": "黑暗的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "広い",
+    "kana": "ひろい",
+    "meaning": "宽敞的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "狭い",
+    "kana": "せまい",
+    "meaning": "狭窄的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "重い",
+    "kana": "おもい",
+    "meaning": "重的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "軽い",
+    "kana": "かるい",
+    "meaning": "轻的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "丸い",
+    "kana": "まるい",
+    "meaning": "圆的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "細かい",
+    "kana": "こまかい",
+    "meaning": "细小的；详细的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "meaning": "困难的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "易しい",
+    "kana": "やさしい",
+    "meaning": "容易的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "同じ",
+    "kana": "おなじ",
+    "meaning": "相同的",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "大変",
+    "kana": "たいへん",
+    "meaning": "不得了；辛苦",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "大切",
+    "kana": "たいせつ",
+    "meaning": "重要的",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "必要",
+    "kana": "ひつよう",
+    "meaning": "必要",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "暇",
+    "kana": "ひま",
+    "meaning": "空闲",
+    "jlpt": "N4",
+    "pos": "名詞/形容動詞"
+  },
+  {
+    "kanji": "危ない",
+    "kana": "あぶない",
+    "meaning": "危险的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "正しい",
+    "kana": "ただしい",
+    "meaning": "正确的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "甘い",
+    "kana": "あまい",
+    "meaning": "甜的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "辛い",
+    "kana": "からい",
+    "meaning": "辣的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "苦い",
+    "kana": "にがい",
+    "meaning": "苦的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "速い",
+    "kana": "はやい",
+    "meaning": "快速的",
+    "jlpt": "N4",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "特別",
+    "kana": "とくべつ",
+    "meaning": "特别",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "有名",
+    "kana": "ゆうめい",
+    "meaning": "有名",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "可能",
+    "kana": "かのう",
+    "meaning": "可能",
+    "jlpt": "N4",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "自分",
+    "kana": "じぶん",
+    "meaning": "自己",
+    "jlpt": "N4",
+    "pos": "代名詞"
+  },
+  {
+    "kanji": "とても",
+    "kana": "とても",
+    "meaning": "非常",
+    "jlpt": "N4",
+    "pos": "副詞"
+  }
+]

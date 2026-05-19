@@ -1,0 +1,905 @@
+[
+  {
+    "kanji": "私",
+    "kana": "わたし",
+    "meaning": "我",
+    "jlpt": "N5",
+    "pos": "代名詞"
+  },
+  {
+    "kanji": "あなた",
+    "kana": "あなた",
+    "meaning": "你",
+    "jlpt": "N5",
+    "pos": "代名詞"
+  },
+  {
+    "kanji": "人",
+    "kana": "ひと",
+    "meaning": "人",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "先生",
+    "kana": "せんせい",
+    "meaning": "老师",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "学生",
+    "kana": "がくせい",
+    "meaning": "学生",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "友達",
+    "kana": "ともだち",
+    "meaning": "朋友",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "家族",
+    "kana": "かぞく",
+    "meaning": "家人",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "父",
+    "kana": "ちち",
+    "meaning": "父亲",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "母",
+    "kana": "はは",
+    "meaning": "母亲",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "兄",
+    "kana": "あに",
+    "meaning": "哥哥",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "姉",
+    "kana": "あね",
+    "meaning": "姐姐",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "弟",
+    "kana": "おとうと",
+    "meaning": "弟弟",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "妹",
+    "kana": "いもうと",
+    "meaning": "妹妹",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "子供",
+    "kana": "こども",
+    "meaning": "孩子",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "家",
+    "kana": "いえ",
+    "meaning": "房子",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "学校",
+    "kana": "がっこう",
+    "meaning": "学校",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "本",
+    "kana": "ほん",
+    "meaning": "书",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "新聞",
+    "kana": "しんぶん",
+    "meaning": "报纸",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "電話",
+    "kana": "でんわ",
+    "meaning": "电话",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "名前",
+    "kana": "なまえ",
+    "meaning": "名字",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "仕事",
+    "kana": "しごと",
+    "meaning": "工作",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "meaning": "公司",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "病院",
+    "kana": "びょういん",
+    "meaning": "医院",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "店",
+    "kana": "みせ",
+    "meaning": "店",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "駅",
+    "kana": "えき",
+    "meaning": "车站",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "道",
+    "kana": "みち",
+    "meaning": "道路",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "時間",
+    "kana": "じかん",
+    "meaning": "时间",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "月曜日",
+    "kana": "げつようび",
+    "meaning": "星期一",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "火曜日",
+    "kana": "かようび",
+    "meaning": "星期二",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "水曜日",
+    "kana": "すいようび",
+    "meaning": "星期三",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "木曜日",
+    "kana": "もくようび",
+    "meaning": "星期四",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "金曜日",
+    "kana": "きんようび",
+    "meaning": "星期五",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "土曜日",
+    "kana": "どようび",
+    "meaning": "星期六",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "日曜日",
+    "kana": "にちようび",
+    "meaning": "星期天",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "今日",
+    "kana": "きょう",
+    "meaning": "今天",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "昨日",
+    "kana": "きのう",
+    "meaning": "昨天",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "明日",
+    "kana": "あした",
+    "meaning": "明天",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "毎日",
+    "kana": "まいにち",
+    "meaning": "每天",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "朝",
+    "kana": "あさ",
+    "meaning": "早上",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "昼",
+    "kana": "ひる",
+    "meaning": "中午",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "夜",
+    "kana": "よる",
+    "meaning": "晚上",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "食べる",
+    "kana": "たべる",
+    "meaning": "吃",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "飲む",
+    "kana": "のむ",
+    "meaning": "喝",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "見る",
+    "kana": "みる",
+    "meaning": "看",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "聞く",
+    "kana": "きく",
+    "meaning": "听",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "言う",
+    "kana": "いう",
+    "meaning": "说",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "読む",
+    "kana": "よむ",
+    "meaning": "读",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "書く",
+    "kana": "かく",
+    "meaning": "写",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "買う",
+    "kana": "かう",
+    "meaning": "买",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "行く",
+    "kana": "いく",
+    "meaning": "去",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "来る",
+    "kana": "くる",
+    "meaning": "来",
+    "jlpt": "N5",
+    "pos": "動詞・カ変"
+  },
+  {
+    "kanji": "する",
+    "kana": "する",
+    "meaning": "做",
+    "jlpt": "N5",
+    "pos": "動詞・サ変"
+  },
+  {
+    "kanji": "勉強する",
+    "kana": "べんきょうする",
+    "meaning": "学习",
+    "jlpt": "N5",
+    "pos": "動詞・サ変"
+  },
+  {
+    "kanji": "歩く",
+    "kana": "あるく",
+    "meaning": "走路",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "走る",
+    "kana": "はしる",
+    "meaning": "跑",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "待つ",
+    "kana": "まつ",
+    "meaning": "等待",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "立つ",
+    "kana": "たつ",
+    "meaning": "站立",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "座る",
+    "kana": "すわる",
+    "meaning": "坐",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "寝る",
+    "kana": "ねる",
+    "meaning": "睡觉",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "起きる",
+    "kana": "おきる",
+    "meaning": "起床",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "開ける",
+    "kana": "あける",
+    "meaning": "打开",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "閉める",
+    "kana": "しめる",
+    "meaning": "关闭",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "教える",
+    "kana": "おしえる",
+    "meaning": "教",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "分かる",
+    "kana": "わかる",
+    "meaning": "明白",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "ある",
+    "kana": "ある",
+    "meaning": "有（无生命）",
+    "jlpt": "N5",
+    "pos": "動詞・五段"
+  },
+  {
+    "kanji": "いる",
+    "kana": "いる",
+    "meaning": "有（有生命）",
+    "jlpt": "N5",
+    "pos": "動詞・一段"
+  },
+  {
+    "kanji": "高い",
+    "kana": "たかい",
+    "meaning": "高的；贵的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "低い",
+    "kana": "ひくい",
+    "meaning": "低的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "meaning": "大的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "meaning": "小的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "長い",
+    "kana": "ながい",
+    "meaning": "长的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "短い",
+    "kana": "みじかい",
+    "meaning": "短的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "meaning": "新的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "古い",
+    "kana": "ふるい",
+    "meaning": "旧的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "熱い",
+    "kana": "あつい",
+    "meaning": "热的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "冷たい",
+    "kana": "つめたい",
+    "meaning": "冷的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "美味しい",
+    "kana": "おいしい",
+    "meaning": "好吃的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "meaning": "快乐的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "早い",
+    "kana": "はやい",
+    "meaning": "早的；快的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "遅い",
+    "kana": "おそい",
+    "meaning": "慢的；晚的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "良い",
+    "kana": "よい",
+    "meaning": "好的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "悪い",
+    "kana": "わるい",
+    "meaning": "坏的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "多い",
+    "kana": "おおい",
+    "meaning": "多的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "少ない",
+    "kana": "すくない",
+    "meaning": "少的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "好き",
+    "kana": "すき",
+    "meaning": "喜欢",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "meaning": "讨厌",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "元気",
+    "kana": "げんき",
+    "meaning": "精神；健康",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "簡単",
+    "kana": "かんたん",
+    "meaning": "简单",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "便利",
+    "kana": "べんり",
+    "meaning": "方便",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "上手",
+    "kana": "じょうず",
+    "meaning": "擅长",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "下手",
+    "kana": "へた",
+    "meaning": "不擅长",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "静か",
+    "kana": "しずか",
+    "meaning": "安静",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "賑やか",
+    "kana": "にぎやか",
+    "meaning": "热闹",
+    "jlpt": "N5",
+    "pos": "形容動詞"
+  },
+  {
+    "kanji": "上",
+    "kana": "うえ",
+    "meaning": "上面",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "下",
+    "kana": "した",
+    "meaning": "下面",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "前",
+    "kana": "まえ",
+    "meaning": "前面；以前",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "meaning": "后面",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "右",
+    "kana": "みぎ",
+    "meaning": "右边",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "左",
+    "kana": "ひだり",
+    "meaning": "左边",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "中",
+    "kana": "なか",
+    "meaning": "里面",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "外",
+    "kana": "そと",
+    "meaning": "外面",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "近く",
+    "kana": "ちかく",
+    "meaning": "附近",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "天気",
+    "kana": "てんき",
+    "meaning": "天气",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "安い",
+    "kana": "やすい",
+    "meaning": "便宜的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "白い",
+    "kana": "しろい",
+    "meaning": "白色的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "黒い",
+    "kana": "くろい",
+    "meaning": "黑色的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "赤い",
+    "kana": "あかい",
+    "meaning": "红色的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "青い",
+    "kana": "あおい",
+    "meaning": "蓝色的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "meaning": "忙碌的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "若い",
+    "kana": "わかい",
+    "meaning": "年轻的",
+    "jlpt": "N5",
+    "pos": "形容詞・い"
+  },
+  {
+    "kanji": "花",
+    "kana": "はな",
+    "meaning": "花",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "山",
+    "kana": "やま",
+    "meaning": "山",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "川",
+    "kana": "かわ",
+    "meaning": "河流",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "海",
+    "kana": "うみ",
+    "meaning": "大海",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "魚",
+    "kana": "さかな",
+    "meaning": "鱼",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "猫",
+    "kana": "ねこ",
+    "meaning": "猫",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "犬",
+    "kana": "いぬ",
+    "meaning": "狗",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "鳥",
+    "kana": "とり",
+    "meaning": "鸟",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "車",
+    "kana": "くるま",
+    "meaning": "车",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "meaning": "电车",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "飛行機",
+    "kana": "ひこうき",
+    "meaning": "飞机",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "切手",
+    "kana": "きって",
+    "meaning": "邮票",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "お金",
+    "kana": "おかね",
+    "meaning": "钱",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "国",
+    "kana": "くに",
+    "meaning": "国家",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "言葉",
+    "kana": "ことば",
+    "meaning": "语言；词语",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "食事",
+    "kana": "しょくじ",
+    "meaning": "用餐",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "料理",
+    "kana": "りょうり",
+    "meaning": "料理",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "歌",
+    "kana": "うた",
+    "meaning": "歌曲",
+    "jlpt": "N5",
+    "pos": "名詞"
+  },
+  {
+    "kanji": "友だち",
+    "kana": "ともだち",
+    "meaning": "朋友",
+    "jlpt": "N5",
+    "pos": "名詞"
+  }
+]
